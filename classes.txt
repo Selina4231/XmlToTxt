@@ -1,6 +1,9 @@
-bus
-minivan
-auto
-truck
-minibus
-가각
+person
+cash
+card
+hat
+umbrell
+kettle
+cellphone
+handbag
+purse
